@@ -20,7 +20,7 @@ Add additional information: Background information, longer prerequisites
 
 
 [ACCORDION-BEGIN [Step 1: ](XXXXX)]
-Test information
+Test information information
 
 [DONE]
 [ACCORDION-END]
